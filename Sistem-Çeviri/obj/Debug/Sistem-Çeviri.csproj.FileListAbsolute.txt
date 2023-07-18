@@ -1,0 +1,10 @@
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\bin\Debug\Sistem-Çeviri.exe.config
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\bin\Debug\Sistem-Çeviri.exe
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\bin\Debug\Sistem-Çeviri.pdb
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem-Çeviri.csprojAssemblyReference.cache
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem_Çeviri.Form1.resources
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem_Çeviri.Properties.Resources.resources
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem-Çeviri.csproj.GenerateResource.cache
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem-Çeviri.csproj.CoreCompileInputs.cache
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem-Çeviri.exe
+C:\Users\kubra\source\repos\Sistem-Çeviri\Sistem-Çeviri\obj\Debug\Sistem-Çeviri.pdb
